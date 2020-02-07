@@ -6,14 +6,20 @@
 - **Sprint location**: [Comtravo Gmbh](https://www.comtravo.com/de/) in Berlin, Germany (get the directions [here](https://www.google.com/maps/place/Comtravo+GmbH/@52.49445,13.4208812,17z/data=!3m1!4b1!4m5!3m4!1s0x47a84e3a1ac9d0a3:0xae81205016b51c44!8m2!3d52.49445!4d13.4230699?shorturl=1))
 
 
-## What will we work on during this sprint?
-The goal of this docstring is 
+## What are the goals of this sprint?
+We want to achieve two main things with this sprint:
+1. Improve the documentation of the [pandas](https://pandas.pydata.org/) python library.
+2. Increase the number of contributers to pandas that belong to underrepresented groups in technology.
 
 
 ## Who can attend?
+Everyone can attend, but only 20 spots will be offered and we will give priority to people belonging to underrepresented groups in technology.
+
+**note of code of conduct
 
 
 ## How to register?
+(link not uploaded yet)
 
 
 ## What should I bring the day of the sprint?
