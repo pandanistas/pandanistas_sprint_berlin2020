@@ -1,6 +1,6 @@
-# pandas doctring Sprint - Berlin 2020
+# pandas docstring Sprint - Berlin 2020
 
-## When/where is this sprint taking place?
+## When/Where is the sprint taking place?
 - **Sprint day**: 21st of March, 2020
 - **Sprint time**: 9am until 6pm
 - **Sprint location**: [Comtravo Gmbh](https://www.comtravo.com/de/) in Berlin, Germany (get the directions [here](https://www.google.com/maps/place/Comtravo+GmbH/@52.49445,13.4208812,17z/data=!3m1!4b1!4m5!3m4!1s0x47a84e3a1ac9d0a3:0xae81205016b51c44!8m2!3d52.49445!4d13.4230699?shorturl=1))
@@ -9,13 +9,13 @@
 ## What are the goals of this sprint?
 We want to achieve two main things with this sprint:
 1. Improve the documentation of the [pandas](https://pandas.pydata.org/) python library.
-2. Increase the number of contributers to pandas that belong to underrepresented groups in technology.
+2. Increase the number of pandas contributors that belong to underrepresented groups in technology.
 
 
 ## Who can attend?
 Everyone can attend, but only 20 spots will be offered and we will give priority to people belonging to underrepresented groups in technology.
 
-**note of code of conduct
+Note that we want to provide a harassment-free experience, and we will adhere to [NumFOCUS code of conduct](https://numfocus.org/code-of-conduct) which you should before attending the event.
 
 
 ## How to register?
@@ -23,7 +23,7 @@ Everyone can attend, but only 20 spots will be offered and we will give priority
 
 
 ## What should I bring the day of the sprint?
-- Bring your computer and don't forget your charger.
+Bring your computer and don't forget your charger.
 
 
 ## What should I do before the sprint?
@@ -50,6 +50,15 @@ Join the Gitter community for pandas documentation sprints [here](https://gitter
 - Skip to [this part](https://dev.pandas.io/docs/development/contributing.html#contributing-to-the-documentation) to read about contributing to the documentation
 
 If you come across any trouble following these steps, feel free to contact [Martina Vilas](https://github.com/martinagvilas).
+
+### 6. Get familiar with the issues you will be working on
+We have made a dashboard where you can explore various issues related to pandas' documentation here (click the "launch binder" button).
+
+
+## How are we going to work the day of the sprint?
+TO-DO
+
+Thanks to our generous sponsors from [Comtravo](https://www.comtravo.com/de/), we will offer lunch (vegetarian option only) to participants.
 
 ## Credits
 This repository is adapted & modified from https://github.com/WiMLDS/berlin-2020-scikit-sprint. Thank you!
