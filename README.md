@@ -1,4 +1,4 @@
-# pandas docstring Sprint - Berlin 2020
+# pandas documentation sprint - Berlin 2020
 
 ## When/Where is the sprint taking place?
 - **Sprint day**: 21st of March, 2020
