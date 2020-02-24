@@ -7,19 +7,19 @@
 
 
 ## What are the goals of this sprint?
-We want to achieve two main things with this sprint:
+Our aims are to:
 1. Improve the documentation of the [pandas](https://pandas.pydata.org/) python library.
 2. Increase the number of pandas contributors that belong to underrepresented groups in technology.
 
 
 ## Who can attend?
-Everyone can attend, but only 20 spots will be offered and we will give priority to people belonging to underrepresented groups in technology.
+Everyone can attend, but only 20 spots will be offered and we will give priority to participants belonging to underrepresented groups in technology.
 
 Note that we want to provide a harassment-free experience, and we will adhere to [NumFOCUS code of conduct](https://numfocus.org/code-of-conduct) which you should before attending the event.
 
 
 ## How to register?
-(link not uploaded yet)
+Please fill out this [form](https://forms.gle/ZCYxnNk9GM8eWX6XA).
 
 
 ## What should I bring the day of the sprint?
