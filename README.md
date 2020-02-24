@@ -15,7 +15,7 @@ Our aims are to:
 ## Who can attend?
 Everyone can attend, but only 20 spots will be offered and we will give priority to participants belonging to underrepresented groups in technology.
 
-Note that we want to provide a harassment-free experience, and we will adhere to [NumFOCUS code of conduct](https://numfocus.org/code-of-conduct) which you should before attending the event.
+We are commited to provide a harassment-free experience for all, and we will adhere to [NumFOCUS code of conduct](https://numfocus.org/code-of-conduct). Please take time to read it before attending the sprint.
 
 
 ## How to register?
