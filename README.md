@@ -19,14 +19,20 @@ We are commited to provide a harassment-free experience for all, and we will adh
 
 
 ## How to register?
-Please fill out this [form](https://forms.gle/ZCYxnNk9GM8eWX6XA).
+Please fill out this [form](https://forms.gle/ZCYxnNk9GM8eWX6XA). Note that filling out this form does not guarantee your participation. A selection processes will have to be carried out if more than 20 people apply to the sprint.
 
+___
+
+## _If invited to attend the sprint..._
 
 ## What should I bring the day of the sprint?
 Bring your computer and don't forget your charger.
 
 
 ## What should I do before the sprint?
+
+> If you come across any trouble following these steps, feel free to contact [Martina Vilas](https://github.com/martinagvilas).
+
 ### 1. Install Python
 Make sure you already have Python > 3 installed. If you haven't, follow the steps [here](https://www.python.org/downloads/).
 
@@ -42,11 +48,11 @@ We recommend [Visual Studio Code](https://code.visualstudio.com/)
 Gitter is a chat room system for developers and users of GitHub repositories.  Join the Gitter community for pandas documentation sprints [here](https://gitter.im/py-sprints/pandas-doc). You can use your GitHub username to sign in.
 
 ### 5. Install the pandas development environment
-To contribute to pandas you need to set-up a development environment. This shou;be done before attending the sprint. 
+To contribute to pandas you need to install a development environment. This should be done before attending the sprint. 
 
-To set-up the development environment, follow these [intructions](https://dev.pandas.io/docs/development/contributing.html#contributing-dev-env).
+To set up the development environment, follow these [intructions](https://dev.pandas.io/docs/development/contributing.html#contributing-dev-env).
 
-### 6. Get familiar with pandas contributing guideline
+### 6. Get familiar with the pandas contributing guideline
 - You can read the pandas contributing guideline [here](https://dev.pandas.io/docs/development/contributing.html).
 - Skip to [this part](https://dev.pandas.io/docs/development/contributing.html#contributing-to-the-documentation) to read about contributing to the documentation.
 - You can read more about this topic following these [links](https://www.pandanistas.org/pages/resources.html).
@@ -56,12 +62,10 @@ To set-up the development environment, follow these [intructions](https://dev.pa
 - Read examples of [docstring errrors](https://github.com/pandanistas/docstring_notebooks/wiki/Docstring-Errors-Examples).
 - Go through this [interactive notebook](https://github.com/pandanistas/docstring_notebooks) to find errors that are still present in pandas docstrings. 
 
-> > If you come across any trouble following these steps, feel free to contact [Martina Vilas](https://github.com/martinagvilas).
-
-## How are we going to work the day of the sprint?
+## How are we going to work during the sprint?
 The day of the sprint we will upload docstring errors in pandas as issues in this repository. Each person will choose one (or more if time) to work on, and will submit the fix to the [pandas repository](https://github.com/pandas-dev/pandas). We will provide help and mentoring when needed. You can choose to work in pairs as well.
 
-Thanks to our generous sponsors from [Comtravo](https://www.comtravo.com/de/), we will offer lunch (vegetarian option only) to participants.
+Thanks to our generous sponsors from [Comtravo](https://www.comtravo.com/de/), we will offer lunch (vegetarian option only) to participants the day of the sprint.
 
 ## Credits
 This repository is adapted & modified from https://github.com/WiMLDS/berlin-2020-scikit-sprint. Thank you!
