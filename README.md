@@ -21,7 +21,7 @@ We are commited to provide a harassment-free experience for all, and we will adh
 ## How to register?
 Please fill out this [form](https://forms.gle/ZCYxnNk9GM8eWX6XA). Note that filling out this form does not guarantee your participation. A selection processes will have to be carried out if more than 20 people apply to the sprint.
 
-__Important__ We are closing applications on the 11th of March. Don't forget to register!
+__Important!__ We are closing applications on the 11th of March. Don't forget to register!
 
 ___
 
