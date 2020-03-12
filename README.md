@@ -19,9 +19,7 @@ We are commited to provide a harassment-free experience for all, and we will adh
 
 
 ## How to register?
-Please fill out this [form](https://forms.gle/ZCYxnNk9GM8eWX6XA). Note that filling out this form does not guarantee your participation. A selection processes will have to be carried out if more than 20 people apply to the sprint.
-
-__Important!__ We are closing applications on the 11th of March. Don't forget to register!
+The registration for this sprint is now closed.
 
 ___
 
@@ -39,9 +37,15 @@ Bring your computer and don't forget your charger.
 Make sure you already have Python > 3 installed. If you haven't, follow the steps [here](https://www.python.org/downloads/).
 
 ### 2. Setup a GitHub account
-- Open an account on [GitHub](https://github.com)
-- Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) if you haven't
-- Review some Git resources if you're not yet familiar with it, such as [Git - the Simple Guide](https://rogerdudler.github.io/git-guide/)
+- Open an account on [GitHub](https://github.com).
+- Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on you local machine if you haven't.
+- Review some Git resources if you're not yet familiar with it. 
+    - Some recommendations for learning git:
+        - Read [git - the simple guide](https://rogerdudler.github.io/git-guide/) for a simple explanation of git's most famous commands.
+        - The book [Pro Git](https://git-scm.com/book/en/v2) gives an in depth explanation of git.
+        - You can also learn [git branching](https://learngitbranching.js.org/?locale=en_US) by playing games.
+        - Here is a [link](https://github.com/martinagvilas/lists/blob/master/computational_resources.md#git) to more resources.
+    - To get familiar with github, read their [guides](https://guides.github.com/).
 
 ### 3. Install a text editor
 We recommend [Visual Studio Code](https://code.visualstudio.com/)
@@ -52,20 +56,23 @@ Gitter is a chat room system for developers and users of GitHub repositories.  J
 ### 5. Install the pandas development environment
 To contribute to pandas you need to install a development environment. This should be done before attending the sprint. 
 
-To set up the development environment, follow these [intructions](https://dev.pandas.io/docs/development/contributing.html#contributing-dev-env).
+To set up the development environment, follow these [instructions](https://dev.pandas.io/docs/development/contributing.html#contributing-dev-env). We recommend setting up a conda environment.
 
-### 6. Get familiar with the pandas contributing guideline
+### 6. Fork the [pandas-dev](https://github.com/pandas-dev/pandas) repository, and clone your fork into your local machine
+    - Read the [github guide for forking and cloning](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) if you don't know how to do this.
+    - Make sure your remote origin is pointing to your pandas-dev fork, and your remote upstream is pointing to the pandas-dev repository.
+
+### 7. Get familiar with the pandas contributing guideline
 - You can read the pandas contributing guideline [here](https://dev.pandas.io/docs/development/contributing.html).
 - Skip to [this part](https://dev.pandas.io/docs/development/contributing.html#contributing-to-the-documentation) to read about contributing to the documentation.
-- You can read more about this topic following these [links](https://www.pandanistas.org/pages/resources.html).
+- You can read more about this topic browsing through these [links](https://www.pandanistas.org/pages/resources.html).
 
-### 7. Get familiar with the issues you will be working on
-- Get familiar with [doctrings](https://dev.pandas.io/docs/development/contributing_docstring.html#docstring) and [docstrings validation processes](https://github.com/pandanistas/docstring_notebooks/wiki/Docstrings).
+### 8. Get familiar with pandas docstrings
+- Read about [pandas doctrings](https://dev.pandas.io/docs/development/contributing_docstring.html#docstring). 
 - Read examples of [docstring errrors](https://github.com/pandanistas/docstring_notebooks/wiki/Docstring-Errors-Examples).
-- Go through this [interactive notebook](https://github.com/pandanistas/docstring_notebooks) to find errors that are still present in pandas docstrings. 
 
 ## How are we going to work during the sprint?
-The day of the sprint we will upload docstring errors in pandas as issues in this repository. Each person will choose one (or more if time) to work on, and will submit the fix to the [pandas repository](https://github.com/pandas-dev/pandas). We will provide help and mentoring when needed. You can choose to work in pairs as well.
+The day of the sprint we will upload docstring errors in pandas as issues in this repository. Each person will choose one (or more if time) to work on, and will submit the fix to the [pandas repository](https://github.com/pandas-dev/pandas). We will provide help and mentoring. You can choose to work in pairs as well.
 
 Thanks to our generous sponsors from [Comtravo](https://www.comtravo.com/de/), we will offer lunch (vegetarian option only) to participants the day of the sprint.
 
