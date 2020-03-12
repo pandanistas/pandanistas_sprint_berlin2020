@@ -34,7 +34,7 @@ Bring your computer and don't forget your charger.
 > If you come across any trouble following these steps, feel free to contact [Martina Vilas](https://github.com/martinagvilas).
 
 ### 1. Install Python
-Make sure you already have Python > 3 installed. If you haven't, follow the steps [here](https://www.python.org/downloads/).
+Make sure you already have Python > 3 installed. If you don't, follow the steps outlined [here](https://www.python.org/downloads/).
 
 ### 2. Setup a GitHub account
 - Open an account on [GitHub](https://github.com).
@@ -45,7 +45,7 @@ Make sure you already have Python > 3 installed. If you haven't, follow the step
         - The book [Pro Git](https://git-scm.com/book/en/v2) gives an in depth explanation of git.
         - You can also learn [git branching](https://learngitbranching.js.org/?locale=en_US) by playing games.
         - Here is a [link](https://github.com/martinagvilas/lists/blob/master/computational_resources.md#git) to more resources.
-    - To get familiar with github, read their [guides](https://guides.github.com/).
+    - To get familiar with GitHub, read their [guides](https://guides.github.com/).
 
 ### 3. Install a text editor
 We recommend [Visual Studio Code](https://code.visualstudio.com/)
@@ -59,8 +59,8 @@ To contribute to pandas you need to install a development environment. This shou
 To set up the development environment, follow these [instructions](https://dev.pandas.io/docs/development/contributing.html#contributing-dev-env). We recommend setting up a conda environment.
 
 ### 6. Fork the [pandas-dev](https://github.com/pandas-dev/pandas) repository, and clone your fork into your local machine
-    - Read the [github guide for forking and cloning](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) if you don't know how to do this.
-    - Make sure your remote origin is pointing to your pandas-dev fork, and your remote upstream is pointing to the pandas-dev repository.
+- Read the [github guide for forking and cloning](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) if you don't know how to do this.
+- Make sure your remote origin is pointing to your pandas-dev fork, and your remote upstream is pointing to the pandas-dev repository.
 
 ### 7. Get familiar with the pandas contributing guideline
 - You can read the pandas contributing guideline [here](https://dev.pandas.io/docs/development/contributing.html).
